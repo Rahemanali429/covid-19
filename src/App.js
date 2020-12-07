@@ -17,6 +17,7 @@ function App() {
           <Route path="/symptom" component={Symptom} />
           <Route path="/graph" component={Graph} />
           <Route path="/about" component={About} />
+          <Route path="/covid-19" component={Home} />
         </Switch>
         <Footer />
       </div>
