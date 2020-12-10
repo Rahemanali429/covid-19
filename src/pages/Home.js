@@ -98,7 +98,7 @@ function Home() {
         data-tip="Last modified date: 05/12/2020"
         style={{ textAlign: "center" }}
       >
-        COVID-19 Live Now
+        COVID-19 Live
       </h2>
       <ReactTooltip effect="solid" />
       <br />
