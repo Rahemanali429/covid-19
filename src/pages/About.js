@@ -25,8 +25,7 @@ function About() {
       >
         <h4>Who built this website?</h4>
         <div style={{ fontSize: "20px" }}>
-          This site is created by Rahemanali Momin. A software engineer and content
-          creator.
+          This site is created by Rahemanali Momin. A software engineer and web Developer.
         </div>
         <br />
         <h4>How to connect?</h4>
