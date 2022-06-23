@@ -43,7 +43,9 @@ function Home() {
       : item;
   });
 
-  const countries = filterCountries.map((data, i) => {
+  const countries = filterCountries
+  .sort((a, b) => b.cases - a.cases)
+  .map((data, i) => {
     return (
       <Card
         key={i}
